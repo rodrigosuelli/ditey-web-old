@@ -55,7 +55,7 @@ export default function Footer(props) {
           <p className="copyright">Copyright &copy; Ditey 2020</p>
           <a
             className="align-center"
-            href="https://github.com/rodrigosuelli/ditey"
+            href="https://github.com/rodrigosuelli/ditey-web-old"
             target="_blank"
             rel="noopener noreferrer"
           >
